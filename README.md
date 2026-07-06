@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Shivam-1502/LeetCode/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/Shivam-1502/LeetCode/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Shivam-1502/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [3220-odd-and-even-transactions](https://github.com/Shivam-1502/LeetCode/tree/master/3220-odd-and-even-transactions) |
 ## Sorting
 |  |
 | ------- |
