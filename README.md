@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shivam-1502/LeetCode/tree/master/0055-jump-game) |
 | [1288-remove-covered-intervals](https://github.com/Shivam-1502/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivam-1502/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shivam-1502/LeetCode/tree/master/0055-jump-game) |
 | [1025-divisor-game](https://github.com/Shivam-1502/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivam-1502/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Shivam-1502/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
