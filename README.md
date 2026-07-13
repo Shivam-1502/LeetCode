@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shivam-1502/LeetCode/tree/master/0055-jump-game) |
+| [0221-maximal-square](https://github.com/Shivam-1502/LeetCode/tree/master/0221-maximal-square) |
 | [1288-remove-covered-intervals](https://github.com/Shivam-1502/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivam-1502/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivam-1502/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Shivam-1502/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shivam-1502/LeetCode/tree/master/0070-climbing-stairs) |
+| [0221-maximal-square](https://github.com/Shivam-1502/LeetCode/tree/master/0221-maximal-square) |
 | [1025-divisor-game](https://github.com/Shivam-1502/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivam-1502/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/Shivam-1502/LeetCode/tree/master/0221-maximal-square) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivam-1502/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Database
 |  |
