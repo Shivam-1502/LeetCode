@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Shivam-1502/LeetCode/tree/master/0191-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shivam-1502/LeetCode/tree/master/1291-sequential-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Shivam-1502/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
