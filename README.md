@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shivam-1502/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam-1502/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1768-merge-strings-alternately](https://github.com/Shivam-1502/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-1502/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1768-merge-strings-alternately](https://github.com/Shivam-1502/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
