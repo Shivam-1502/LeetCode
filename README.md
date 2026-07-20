@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam-1502/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivam-1502/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2465-number-of-distinct-averages](https://github.com/Shivam-1502/LeetCode/tree/master/2465-number-of-distinct-averages) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam-1502/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shivam-1502/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shivam-1502/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivam-1502/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Shivam-1502/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivam-1502/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Shivam-1502/LeetCode/tree/master/2465-number-of-distinct-averages) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam-1502/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Shivam-1502/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2465-number-of-distinct-averages](https://github.com/Shivam-1502/LeetCode/tree/master/2465-number-of-distinct-averages) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shivam-1502/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
