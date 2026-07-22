@@ -1,9 +1,3 @@
-#include <vector>
-#include <string>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
     int log2_floor(int i) {
         return i ? 31 - __builtin_clz(i) : -1;
@@ -17,7 +11,7 @@ public:
             if (c == '1') total_ones++;
         }
 
-        vector<pair<int, int>> P; // Stores {start, end} of '0' blocks
+        vector<pair<int, int>> P;
         int start = -1;
         for (int i = 0; i < n; i++) {
             if (s[i] == '0') {
@@ -55,7 +49,6 @@ public:
             }
         }
 
-        // Setup Sparse Tables for O(1) range queries
         int max_log = K > 0 ? log2_floor(K) + 1 : 0;
         vector<vector<int>> st_V_max;
         if (K > 0) {
@@ -106,7 +99,6 @@ public:
         for (const auto& q : queries) {
             int l = q[0], r = q[1];
 
-            // Binary Search to find intersecting '0' blocks
             int a = -1, b = -1;
             int low = 0, high = K - 1;
             while (low <= high) {
@@ -130,13 +122,11 @@ public:
                 }
             }
 
-            // If less than 2 valid '0' blocks exist in the substring, no trade is possible
             if (a == -1 || b == -1 || a >= b) {
                 ans.push_back(total_ones);
                 continue;
             }
 
-            // Adjust boundary blocks
             int Z1 = P[a].second - max(P[a].first, l) + 1;
             int Zm = min(P[b].second, r) - P[b].first + 1;
             
