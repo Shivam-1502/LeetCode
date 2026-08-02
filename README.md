@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Shivam-1502/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivam-1502/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shivam-1502/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-1502/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Shivam-1502/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shivam-1502/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shivam-1502/LeetCode/tree/master/0070-climbing-stairs) |
 | [0221-maximal-square](https://github.com/Shivam-1502/LeetCode/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/Shivam-1502/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shivam-1502/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Shivam-1502/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivam-1502/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shivam-1502/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shivam-1502/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Shivam-1502/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Shivam-1502/LeetCode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shivam-1502/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivam-1502/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shivam-1502/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shivam-1502/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Shivam-1502/LeetCode/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
