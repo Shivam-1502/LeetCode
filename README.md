@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Shivam-1502/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivam-1502/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shivam-1502/LeetCode/tree/master/2029-stone-game-ix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shivam-1502/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2465-number-of-distinct-averages](https://github.com/Shivam-1502/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam-1502/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shivam-1502/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Shivam-1502/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-1502/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/Shivam-1502/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam-1502/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Shivam-1502/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Shivam-1502/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1386-cinema-seat-allocation](https://github.com/Shivam-1502/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivam-1502/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivam-1502/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/Shivam-1502/LeetCode/tree/master/2029-stone-game-ix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shivam-1502/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shivam-1502/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
