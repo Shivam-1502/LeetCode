@@ -1,35 +1,34 @@
 class Solution {
 public:
     int maxVowels(string s, int k) {
-        auto isVowel = [](char c) {
-            return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
-        };
+        bool isVowel[128] = {false};
+        isVowel['a'] = isVowel['e'] = isVowel['i'] = isVowel['o'] = isVowel['u'] = true;
 
         int currentVowels = 0;
-        
+        int n = s.length();
         for (int i = 0; i < k; ++i) {
-            if (isVowel(s[i])) {
+            if (isVowel[s[i]]) {
                 currentVowels++;
             }
         }
-        
-        int maxVowels = currentVowels;
 
-        for (int i = k; i < s.length(); ++i) {
-            if (isVowel(s[i - k])) {
+        int maxVowels = currentVowels;
+        if (maxVowels == k) return k;
+
+        for (int i = k; i < n; ++i) {
+            if (isVowel[s[i - k]]) {
                 currentVowels--;
             }
-            
-            if (isVowel(s[i])) {
+            if (isVowel[s[i]]) {
                 currentVowels++;
             }
-            
-            maxVowels = max(maxVowels, currentVowels);
-            
-            if (maxVowels == k) {
-                return k;
+
+            if (currentVowels > maxVowels) {
+                maxVowels = currentVowels;
+                if (maxVowels == k) return k;
             }
         }
+
         return maxVowels;
     }
 };
