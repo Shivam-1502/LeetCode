@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Shivam-1502/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivam-1502/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shivam-1502/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/Shivam-1502/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Shivam-1502/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shivam-1502/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Shivam-1502/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Shivam-1502/LeetCode/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/Shivam-1502/LeetCode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/Shivam-1502/LeetCode/tree/master/0392-is-subsequence) |
