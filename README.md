@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivam-1502/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shivam-1502/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shivam-1502/LeetCode/tree/master/0443-string-compression) |
+| [0940-distinct-subsequences-ii](https://github.com/Shivam-1502/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam-1502/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shivam-1502/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivam-1502/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shivam-1502/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivam-1502/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shivam-1502/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Shivam-1502/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Shivam-1502/LeetCode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Shivam-1502/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivam-1502/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
