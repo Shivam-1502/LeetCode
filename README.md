@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Shivam-1502/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivam-1502/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shivam-1502/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Shivam-1502/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Shivam-1502/LeetCode/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivam-1502/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam-1502/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam-1502/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Shivam-1502/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Shivam-1502/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Shivam-1502/LeetCode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam-1502/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivam-1502/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Shivam-1502/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Shivam-1502/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
