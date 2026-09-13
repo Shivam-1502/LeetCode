@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shivam-1502/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Shivam-1502/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shivam-1502/LeetCode/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/Shivam-1502/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shivam-1502/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-1502/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivam-1502/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Shivam-1502/LeetCode/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/Shivam-1502/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Shivam-1502/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivam-1502/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2352-equal-row-and-column-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
