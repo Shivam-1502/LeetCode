@@ -1,21 +1,9 @@
 class Solution {
 public:
     bool isRectangleOverlap(vector<int>& rec1, vector<int>& rec2) {
-       int left1_x = rec1[0];
-       int left1_y = rec1[1];
-       int right1_x = rec1[2];
-       int right1_y = rec1[3]; 
-
-       int left2_x = rec2[0];
-       int left2_y = rec2[1];
-       int right2_x = rec2[2];
-       int right2_y = rec2[3]; 
-
-       if(left2_x >= right1_x) return false;
-       if(left1_x >= right2_x) return false;
-       if(left2_y >= right1_y) return false;
-       if(left1_y >= right2_y) return false;
-
-       return true;
+       return !(rec1[2] <= rec2[0] ||   // rec1 is to the left of rec2
+                 rec1[0] >= rec2[2] ||   // rec1 is to the right of rec2
+                 rec1[3] <= rec2[1] ||   // rec1 is below rec2
+                 rec1[1] >= rec2[3]);    // rec1 is above rec2
     }
 };
