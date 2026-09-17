@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/Shivam-1502/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Shivam-1502/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1179-reformat-department-table](https://github.com/Shivam-1502/LeetCode/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/Shivam-1502/LeetCode/tree/master/1251-average-selling-price) |
