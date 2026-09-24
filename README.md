@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam-1502/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam-1502/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Shivam-1502/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Shivam-1502/LeetCode/tree/master/0394-decode-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam-1502/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam-1502/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Shivam-1502/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shivam-1502/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam-1502/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam-1502/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Shivam-1502/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shivam-1502/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam-1502/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam-1502/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Shivam-1502/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shivam-1502/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
