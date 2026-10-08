@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivam-1502/LeetCode/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/Shivam-1502/LeetCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Shivam-1502/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Shivam-1502/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Shivam-1502/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0342-power-of-four](https://github.com/Shivam-1502/LeetCode/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/Shivam-1502/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shivam-1502/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Shivam-1502/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Shivam-1502/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Shivam-1502/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
