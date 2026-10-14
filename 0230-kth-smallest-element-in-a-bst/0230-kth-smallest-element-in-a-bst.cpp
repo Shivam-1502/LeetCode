@@ -10,22 +10,31 @@
  * };
  */
 class Solution {
-
-    void inOrder(TreeNode* root, vector<int>& arr){
-        if(root == NULL){
-            return;
-        } 
-
-        inOrder(root->left, arr);
-        arr.push_back(root->val);
-        inOrder(root->right, arr);   
-    }
-
 public:
+    int prevOrd = 0;
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>sorted;
-        inOrder(root, sorted);
+        if(root == NULL){
+            return -1;
+        }
 
-        return sorted[k-1];
+        if(root->left != NULL){
+            int leftAns = kthSmallest(root->left, k);
+            if(leftAns != -1){
+                return leftAns;
+            }
+        }
+
+        if(prevOrd + 1 == k){
+            return root->val;
+        }
+        prevOrd++;
+
+        if(root->right != NULL){
+            int rightAns = kthSmallest(root->right, k);
+            if(rightAns != -1){
+                return rightAns;
+            }
+        }
+        return -1;
     }
 };
