@@ -12,33 +12,20 @@
 class Solution {
 public:
 
-    TreeNode* insert(TreeNode* root, int val){
-        if(!root) return new TreeNode(val);
+    TreeNode* buildBST(vector<int>& preorder, int &i, int bound){
+        if(i >= preorder.size() || preorder[i] > bound) return NULL;
 
-        TreeNode* node = root;
-        while(true){
-            if(val < node->val){
-                if(!node->left){
-                    node->left = new TreeNode(val);
-                    break;
-                }
-                node = node->left;
-            } else {
-                if(!node->right){
-                    node->right = new TreeNode(val);
-                    break;
-                }
-                node = node->right;
-            }
-        }
+        TreeNode* root = new TreeNode(preorder[i++]);
+
+        root->left = buildBST(preorder, i, root->val);
+        root->right = buildBST(preorder, i, bound);
+
         return root;
     }
 
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode* root = nullptr;
-        for(int val : preorder){
-            root = insert(root, val);
-        }
-        return root;
+        int i = 0;
+
+        return buildBST(preorder, i, INT_MAX);
     }
 };
