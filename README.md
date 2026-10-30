@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shivam-1502/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Shivam-1502/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Shivam-1502/LeetCode/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Shivam-1502/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shivam-1502/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Shivam-1502/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-1502/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivam-1502/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shivam-1502/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shivam-1502/LeetCode/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Shivam-1502/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Shivam-1502/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-1502/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
