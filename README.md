@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-1502/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Shivam-1502/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shivam-1502/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shivam-1502/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Shivam-1502/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivam-1502/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shivam-1502/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shivam-1502/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shivam-1502/LeetCode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Shivam-1502/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shivam-1502/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/Shivam-1502/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Shivam-1502/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-1502/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
