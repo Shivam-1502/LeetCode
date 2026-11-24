@@ -7,8 +7,8 @@ public:
             int g = nums[i], l = nums[i];
             for (int j = i; j < n; j++) {
                 prod *= nums[j];
-                g = std::gcd(g, nums[j]);
-                l = std::lcm(l, nums[j]);
+                g = gcd(g, nums[j]);
+                l = lcm(l, nums[j]);
                 if (prod == (long long)g * l)
                     ans = max(ans, j - i + 1);
                 if (prod > 25200LL) break;
